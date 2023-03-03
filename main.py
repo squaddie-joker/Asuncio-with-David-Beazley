@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import asyncio
 
 from util import async_timer
